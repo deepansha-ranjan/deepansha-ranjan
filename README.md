@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://cdn.kibrispdr.org/data/14/coding-gif-24.gif" align="center" height="" width="400" />
+</div>
 
-<!--
-**deepansha-ranjan/deepansha-ranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Deepansha Ranjan</h1>
+<h3 align="center">A passionate frontend developer!!</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Web development projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/deepansha-ranjan/my_portfolio](https://github.com/deepansha-ranjan/my_portfolio)
+
+- 📫 How to reach me **deepansharanjan1234@gmail.com**
+
+# Connect with me:
+<div align="center">
+  <a href="https://linkedin.com/in/deepansha-ranjan-64a75124a" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" style="margin-bottom: 6px;" />
+  </a>
+  <a href="https://github.com/deepansha-ranjan" target="blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height="30" style="margin-bottom: 6px;" />
+  </a>
+</div>
+<br/>
+
+# My Skill
+<div align="center"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="60"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="60"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="60"/> 
+  </a> 
+</div>
+<br/>
+
+# Github stats
+
+<div style="margin-bottom: 20px;">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepansha-ranjan&show_icons=true&locale=en" alt="deepansha-ranjan" /></p>
+  <br/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepansha-ranjan&show_icons=true&locale=en&layout=compact" alt="deepansha-ranjan" /></p>
+  <br/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepansha-ranjan&" alt="deepansha-ranjan" /></p>
+</div>
+<br/>
+<footer>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deepansha-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="deepansha-ranjan" /> </p>
+</footer>
