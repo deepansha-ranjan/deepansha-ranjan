@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Web development projects**
+- 👯 I’m looking to collaborate on **Web development projects** and **Data Analysis projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/deepansha-ranjan/my_portfolio](https://github.com/deepansha-ranjan/my_portfolio)
 
