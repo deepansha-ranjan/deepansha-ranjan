@@ -1,7 +1,6 @@
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/a316e8a6-e306-4d4c-a371-2f742a6503b5" /><div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2i8Djg8UdXPIhknDZBBWc22Tr6I1XzbQVVrLs3Phw-TCsTSQZ-MEyYwa3M5mbVVARLE&usqp=CAU" align="center" height="" width="400" />
+<div align="center">
+  <img width="300" height="168" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2i8Djg8UdXPIhknDZBBWc22Tr6I1XzbQVVrLs3Phw-TCsTSQZ-MEyYwa3M5mbVVARLE&usqp=CAU" />
 </div>
-
 <h1 align="center">Hi, I'm Deepansha Ranjan</h1>
 <h3 align="center">A passionate full stack developer!!</h3>
 
